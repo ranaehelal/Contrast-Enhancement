@@ -29,7 +29,7 @@ This repository contains various **image processing techniques** implemented usi
 
 ##  How to Use
 1. Open the notebook in **Google Colab**:
-   - [![Open In Colab](https://colab.research.google.com/github/ranaehelal/Contrast-Enhancement/blob/main/jellyfish_analysis.ipynb)
+   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ranaehelal/Contrast-Enhancement/blob/main/jellyfish_analysis.ipynb)
    
 2. Upload an image (`jellyfish.jpg` or `stretch_original.webp`) to the Colab environment.
 
